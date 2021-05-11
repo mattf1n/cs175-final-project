@@ -1,6 +1,6 @@
 # cs175-final-project
 
-For Macs, the executable can be found in: cs175-final-project/colorboids/colorboids.app/Contents/
+For Mac, the executable can be found in: cs175-final-project/colorboids/
 
 For Windows, the executable can be found in: cs175-final-project/colorboids_windows/
 
